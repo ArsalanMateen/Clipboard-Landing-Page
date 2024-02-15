@@ -10,5 +10,5 @@ Easily customizable code structure
 Contributions are welcome! Feel free to fork the repository and submit a pull request with your improvements
 
 # Acknowledgements:
-Font Awesome for the icons.
-Unsplash for the background image.
+Font Awesome for the icons and
+Unsplash for the background image
